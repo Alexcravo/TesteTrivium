@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteTrivium", "TesteTrivium\TesteTrivium.csproj", "{829E3BE2-34B7-44E7-A5AA-9867345D6DA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{983D1958-6707-41B1-BEB4-5CC4E494C563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829E3BE2-34B7-44E7-A5AA-9867345D6DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829E3BE2-34B7-44E7-A5AA-9867345D6DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829E3BE2-34B7-44E7-A5AA-9867345D6DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829E3BE2-34B7-44E7-A5AA-9867345D6DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{829E3BE2-34B7-44E7-A5AA-9867345D6DA2} = {983D1958-6707-41B1-BEB4-5CC4E494C563}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E07F8E7D-B924-42EA-BCBE-D5B90ADE43D5}
+	EndGlobalSection
+EndGlobal
